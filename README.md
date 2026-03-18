@@ -1,16 +1,18 @@
-## Hi there 👋
+# Moin, ich bin Graefemeister! 👋
 
-<!--
-**graefemeister/graefemeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hier entsteht ein neues Steuerungskonzept für deine Klemmbaustein-Züge.
 
-Here are some ideas to get you started:
+Zunächst die Android-App:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚂 NoppenExpress
+**NoppenExpress** – eine App, die das Hobby für alle Klemmbausteinfreunde einfacher und digitaler macht.
+
+### 📲 Download & Testen
+Du möchtest die App direkt ausprobieren?
+- Ich werde sie hier veröffentlichen.
+- *Demnächst auch im Google Play Store verfügbar!*
+
+### ☕ Support & Community
+Da dies ein reines Hobbyprojekt ist, freue ich mich über jede Form von Feedback oder Unterstützung. Wenn du mir einen "digitalen Kaffee" ausgeben möchtest:
+- [Hier Kaffee spendieren via PayPal](https://paypal.me/ChGraefe) ☕
+
